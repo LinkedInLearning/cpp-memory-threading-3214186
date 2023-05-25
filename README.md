@@ -45,17 +45,18 @@ Dieses Problem lösen Sie wie folgt:
 ## Installation
 
 1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
+   - C++ Build-tools
+   - Eine IDE (Am besten QtCreator oder Visual Studio Code)
 2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+3. ```git clone https://github.com/LinkedInLearning/https-github.com-LinkedInLearning-cpp-memory-threading-3214186.git```
 
 ### Autor
 
-**[Name hier eintragen]**
+**Gerhard Stein**
 
-_[Berufsbezeichnung hier eintragen]_
+_Maschinenbau-Ingenieurinformatik/Senior Software-Ingenieur_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dr-gerhard-stein) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
