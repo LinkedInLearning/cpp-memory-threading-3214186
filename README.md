@@ -30,5 +30,5 @@ _Maschinenbau-Ingenieurinformatik/Senior Software-Ingenieur_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dr-gerhard-stein) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/c-plus-plus-speicherverwaltung-und-threading
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQE612FxofAjyg/learning-public-crop_675_1200/0/1690456059650?e=2147483647&v=beta&t=YR5vHsfuu8efLk-qU0u-GizWmunpvYeVgkxpi4zxySo
