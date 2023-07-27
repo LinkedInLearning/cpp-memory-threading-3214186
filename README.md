@@ -7,7 +7,9 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `C++ - Speicherverwa
 Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. 
 Jede Folge der Code-Challenges-Serie bietet mindestens 12 praktische Übungen in verschiedenen Schwierigkeitsgraden, so dass Sie sich selbst herausfordern und das Gelernte festigen können. Schauen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie man einen Codespace einrichtet und zum Einsatz bringt. 
 
-[COURSEDESCRIPTION]
+Begleiten Sie Dr. Gerhard Stein auf einer Reise durch das Speichermanagement und die Threadverwaltung in modernem C++.  In diesem LinkedIn Learning Kurs vertiefen Sie Ihre Kenntnisse zu Programmierkonzepten und entwickeln eigene Strukturen. Parallele Prozessierung und Speicherverwaltung in C++ stehen im Mittelpunkt, Sie sehen unter anderen, wie Sie nebenläufige Prozesse implementieren, Threads erzeugen und ausführen und lernen alles Wichtige zum Memory Management.<br><br>
+
+Mit der Hilfe von praktischen Challenge/Solution-Einheiten am Ende der einzelnen Kapitel können Sie Ihr Wissen immer wieder testen und Ihre Lösungen mit der Ihres Trainers vergleichen.
 
 ## Anleitung
 
